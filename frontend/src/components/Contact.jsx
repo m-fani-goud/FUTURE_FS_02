@@ -27,7 +27,7 @@ try{
 setLoading(true);
 
 await axios.post(
-"http://localhost:5000/api/contact",
+"https://future-fs-02-hjwn.onrender.com/api/contact",
 form
 );
 
