@@ -209,18 +209,20 @@ This is how many developers start **freelancing and selling websites to local bu
 
 # 📸 Screenshots
 
-*(Add screenshots here)*
+### 🏠 Hero Section
+![Hero](screenshots/hero.png)
 
-Example:
+### 🍗 Menu Section
+![Menu](screenshots/menu.png)
 
-```
-screenshots/
-hero.png
-menu.png
-contact.png
-```
+### 🧑‍🍳 About Section
+![About](screenshots/about.png)
 
----
+### 📍 Map Location
+![Map](screenshots/map.png)
+
+### 📩 Contact Section
+![Contact](screenshots/contact.png)
 
 # 📢 Internship Submission
 
